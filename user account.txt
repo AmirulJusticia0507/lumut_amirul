@@ -1,0 +1,7 @@
+akun admin:
+user: admin
+password: admin123
+
+akun author:
+user: author
+password: author123
